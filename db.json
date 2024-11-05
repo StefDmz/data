@@ -8,7 +8,6 @@
             "image": "img/papa_con_carne.png",
             "categoryId": 1,
             "stock": 100,
-            "rating": 4.7,
             "sku": "PAST-MAN-001",
             "available": true
         },
@@ -20,7 +19,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 1,
             "stock": 100,
-            "rating": 4.7,
             "sku": "PAST-HAW-001",
             "available": true
         },
@@ -32,7 +30,6 @@
             "image": "img/frijol.png",
             "categoryId": 1,
             "stock": 100,
-            "rating": 4.7,
             "sku": "PAST-FRI-001",
             "available": true
         },
@@ -44,7 +41,6 @@
             "image": "img/mole_rojo.png",
             "categoryId": 1,
             "stock": 100,
-            "rating": 4.7,
             "sku": "PAST-MRO-001",
             "available": true
         },
@@ -56,7 +52,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 1,
             "stock": 100,
-            "rating": 4.7,
             "sku": "PAST-ATU-001",
             "available": true
         },
@@ -68,7 +63,6 @@
             "image": "img/salchicha.png",
             "categoryId": 1,
             "stock": 100,
-            "rating": 4.7,
             "sku": "PAST-SAL-001",
             "available": true
         },
@@ -80,7 +74,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 2,
             "stock": 100,
-            "rating": 4.7,
             "sku": "PAST-ARR-001",
             "available": true
         },
@@ -92,7 +85,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 2,
             "stock": 100,
-            "rating": 4.7,
             "sku": "PAST-CHO-001",
             "available": true
         },
@@ -104,7 +96,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 2,
             "stock": 100,
-            "rating": 4.7,
             "sku": "PAST-MRO-001",
             "available": true
         },
@@ -116,7 +107,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 2,
             "stock": 100,
-            "rating": 4.7,
             "sku": "PAST-ZAR-001",
             "available": true
         },
@@ -128,7 +118,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 2,
             "stock": 100,
-            "rating": 4.7,
             "sku": "PAST-CAJ-001",
             "available": true
         },
@@ -140,7 +129,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 3,
             "stock": 100,
-            "rating": 4.7,
             "sku": "TACO-CAM-001",
             "available": true
         },
@@ -152,7 +140,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 3,
             "stock": 100,
-            "rating": 4.7,
             "sku": "TACO-CAM-001",
             "available": true
         },
@@ -164,7 +151,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 3,
             "stock": 100,
-            "rating": 4.7,
             "sku": "TACO-CAM-001",
             "available": true
         },
@@ -176,7 +162,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 3,
             "stock": 100,
-            "rating": 4.7,
             "sku": "TACO-CAM-001",
             "available": true
         },
@@ -188,7 +173,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 3,
             "stock": 100,
-            "rating": 4.7,
             "sku": "TACO-CAM-001",
             "available": true
         },
@@ -200,7 +184,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 3,
             "stock": 100,
-            "rating": 4.7,
             "sku": "TACO-CAM-001",
             "available": true
         },
@@ -212,7 +195,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 3,
             "stock": 100,
-            "rating": 4.7,
             "sku": "TACO-CAM-001",
             "available": true
         },
@@ -224,7 +206,6 @@
             "image": "img/hawaiano.png",
             "categoryId": 3,
             "stock": 100,
-            "rating": 4.7,
             "sku": "TACO-CAM-001",
             "available": true
         }
